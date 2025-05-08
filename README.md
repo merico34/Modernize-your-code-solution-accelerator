@@ -1,4 +1,4 @@
-EV: deployement depuis codespaces ne fonctionne pas car mal fichu, post-deploiement avec remplissage du .env par exemple pas fait !! (cf azure.yaml, pas de ligne « postprocessing »)
+**EV**: deployement depuis codespaces **ne fonctionne pas** car mal fichu, post-deploiement avec remplissage du .env par exemple pas fait !! (cf azure.yaml, pas de ligne « postprocessing »)
 
 ou alors redonner chance en essayant le doc non mentionné: docs/AddAuthentication.md
 
