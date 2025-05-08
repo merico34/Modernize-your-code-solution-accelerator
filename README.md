@@ -1,3 +1,7 @@
+EV: deployement depuis codespaces ne fonctionne pas car mal fichu, post-deploiement avec remplissage du .env par exemple pas fait !! (cf azure.yaml, pas de ligne « postprocessing »)
+
+ou alors redonner chance en essayant le doc non mentionné: docs/AddAuthentication.md
+
 # Modernize your code solution accelerator
 
 Welcome to the *Modernize your code* solution accelerator, designed to help customers transition their SQL queries to new environments quickly and efficiently. This accelerator is particularly useful for organizations modernizing their data estates, as it simplifies the process of translating SQL queries from various dialects.
